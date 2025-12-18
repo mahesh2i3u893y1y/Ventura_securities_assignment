@@ -1,5 +1,8 @@
 #  IPO Listing Dashboard
 
+Live Website vercel link:
+https://ventura-securities-assignment-gold.vercel.app/
+
 A fully responsive IPO listing and details dashboard built using **React**, **Tailwind CSS**, and **local data files**.  
 The application displays IPO listings, detailed IPO information, and timelines — similar to modern fintech platforms.
 
