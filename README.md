@@ -46,7 +46,7 @@ Desktop view of the OPEN IPO's
 
 <img width="1867" height="833" alt="Screenshot 2025-12-18 125002" src="https://github.com/user-attachments/assets/9446f3c7-c4a0-41b8-99e4-8b87723a0bd3" />
 
-Desktop view of the OPEN IPO's 
+Mobile view of the OPEN IPO's 
 
 
 <img width="446" height="789" alt="Screenshot 2025-12-18 125401" src="https://github.com/user-attachments/assets/f582fa86-ff15-4c60-be91-2d27555d0c49" />
@@ -56,7 +56,6 @@ Details Section of the each company click on the particular comapny to see the d
 
 <img width="1896" height="873" alt="Screenshot 2025-12-18 125709" src="https://github.com/user-attachments/assets/47211a68-23e3-4346-a61e-578c13027607" />
 <img width="1885" height="875" alt="Screenshot 2025-12-18 125722" src="https://github.com/user-attachments/assets/6d6b0d5d-81d8-4bd1-882f-1d61e1936d21" />
-<img width="1896" height="873" alt="Screenshot 2025-12-18 125709" src="https://github.com/user-attachments/assets/b76046c6-d86a-41ec-9a7a-94f0e7754174" />
 
 
 Mobile View 
