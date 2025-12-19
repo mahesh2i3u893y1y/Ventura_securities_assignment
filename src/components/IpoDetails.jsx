@@ -20,7 +20,7 @@ const IpoDetails = () => {
   const ipo = ipoData.find((item) => item.id === ipoId);
 
 
-//   this is for the debugger helps the UI not to crash incase no such ID
+//   this  helps the UI not to crash incase no such ID
   if (!ipo) {
     return <div className="p-6 text-center text-red-500">IPO not found</div>;
   }

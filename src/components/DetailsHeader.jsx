@@ -5,7 +5,7 @@ import { MdArrowBackIos } from "react-icons/md";
 const DetailsHeader = ({ company }) => {
   const navigate = useNavigate();
 
-//   static header with passed data with back naviation 
+//   static header with passed data with back navigation 
 
   return (
     <div className="w-full bg-white border-b border-gray-300">

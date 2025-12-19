@@ -1,7 +1,7 @@
 import React from "react";
 import { FaCheck } from "react-icons/fa";
 
-// Timeline component with two two UI's based on the screen 
+// Timeline component with  two UI's based on the screen 
 
 const Timeline = ({ items }) => {
   return (
@@ -29,6 +29,8 @@ const Timeline = ({ items }) => {
           </div>
         </div>
       </div>
+
+      {/* mobile view  */}
 
       <div className="md:hidden">
         <div className="relative">

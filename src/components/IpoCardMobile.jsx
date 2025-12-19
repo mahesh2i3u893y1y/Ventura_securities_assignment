@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 
 // showing the OPEN IPO's in mobile view 
-// Here we can also use LINK for the better SEO same in the desktop 
+// Here we can also use LINK for the better SEO 
 
 const IpoCardMobile = ({ ipo }) => {
     const navigate = useNavigate()
